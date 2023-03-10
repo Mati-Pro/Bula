@@ -1,2 +1,6 @@
 # Bula
-Hardware project - 6V_flashlight_charger
+6V flashlight charger
+
+Bula.pdf - shematic diagram in pdf.
+
+KICAD - project folder.
